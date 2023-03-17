@@ -36,7 +36,7 @@ const Home = ({ classicHeader, darkTheme, handleNavClick }) => {
                     options={{
                       strings: [
                         "I'm Jack Nowaczewski.",
-                        "I'm a Freelaner.",
+                        "I'm a Freelancer.",
                         "I'm a Guitarist.",
                         "I'm a React Developer.",
                       ],
