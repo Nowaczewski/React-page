@@ -12,6 +12,8 @@ import "slick-carousel/slick/slick-theme.css";
 
 import "./sass/stylesheet.scss";
 
+// import desired color style sheet here
+
 import "./index.scss";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
