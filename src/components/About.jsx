@@ -11,6 +11,7 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
               "text-24  text-uppercase fw-600 w-100 mb-0 " +
               (darkTheme ? "text-muted opacity-1" : "text-light opacity-4")
             }
+            // edit about section below
           >
             About Me
           </h2>
