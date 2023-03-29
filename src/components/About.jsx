@@ -33,6 +33,7 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
               className={
                 "text-7 fw-600 mb-3 " + (darkTheme ? "text-white" : "")
               }
+              // edit about me section for better wording
             >
               I'm <span className="text-primary">Simone Olivia,</span> a Web
               Developer
