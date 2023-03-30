@@ -1,7 +1,7 @@
 import React from "react";
 
 const Services = ({ classicHeader, darkTheme }) => {
-  // services details
+  // services details for personal profile
   const services = [
     {
       name: "Graphic Design",
