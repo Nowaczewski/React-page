@@ -4,6 +4,8 @@ import Slider from "react-slick";
 
 const Testimonials = ({ classicHeader, darkTheme }) => {
   const reviews = [
+    // add testimonials of people from LinkedIn
+
     {
       name: "Dennis Jacques",
       position: "User from USA",
