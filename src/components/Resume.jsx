@@ -1,5 +1,6 @@
 import React from "react";
 import resumeFile from "../documents/resume.pdf";
+// resume section, edit for the page
 
 const Resume = ({ classicHeader, darkTheme }) => {
   const educationDetails = [

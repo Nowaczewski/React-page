@@ -26,12 +26,12 @@ const Header = ({ classicHeader, darkTheme, homeRef, handleNavClick }) => {
                 className="img-fluid rounded-pill d-block"
                 // change logo
                 src="images/profile.jpg"
-                title="I'm Simone"
+                title="I'm Jack"
                 alt="profile"
               />
             </span>
             <h1 className="text-5 text-white text-center mb-0 d-lg-block">
-              Simone Olivia
+              Jack Nowaczewski
             </h1>
           </Link>
           {/* Logo End */}

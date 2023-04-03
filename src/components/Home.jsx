@@ -37,9 +37,9 @@ const Home = ({ classicHeader, darkTheme, handleNavClick }) => {
                       // strings for typewriter
                       strings: [
                         "I'm Jack Nowaczewski.",
+                        "I'm a React Developer.",
                         "I'm a Freelancer.",
                         "I'm a Guitarist.",
-                        "I'm a React Developer.",
                       ],
                       autoStart: true,
                       loop: true,
@@ -47,7 +47,7 @@ const Home = ({ classicHeader, darkTheme, handleNavClick }) => {
                   />
                 </h2>
                 <p className="text-5 text-light mb-4">
-                  based in Los Angeles, California.
+                  based in Knoxville, Tennessee.
                 </p>
                 <a
                   href="#contact"

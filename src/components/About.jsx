@@ -35,8 +35,8 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
               }
               // edit about me section for better wording
             >
-              I'm <span className="text-primary">Simone Olivia,</span> a Web
-              Developer
+              I'm <span className="text-primary">Jack Nowaczewski,</span> a Full
+              Stack Developer
             </h2>
             <p className={darkTheme ? "text-white-50" : ""}>
               I help you build brand for your business at an affordable price.
@@ -61,18 +61,19 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
                 }
               >
                 <li>
-                  <span className="fw-600 me-2">Name:</span>Simone Olivia
+                  <span className="fw-600 me-2">Name:</span>Jack Nowaczewski
                 </li>
                 <li>
                   <span className="fw-600 me-2">Email:</span>
-                  <a href="mailto:chat@simone.com">chat@simone.com</a>
+                  <a href="mailto:nowaczewskijack@gmail.com">
+                    NowaczewskiJack@gmail.com
+                  </a>
                 </li>
                 <li>
-                  <span className="fw-600 me-2">Age:</span>28
+                  <span className="fw-600 me-2">Age:</span>30
                 </li>
                 <li className="border-0">
-                  <span className="fw-600 me-2">From:</span>Los Angeles,
-                  California
+                  <span className="fw-600 me-2">From:</span>Knoxville, Tennessee
                 </li>
               </ul>
               <a

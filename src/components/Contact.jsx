@@ -95,7 +95,7 @@ const Contact = ({ classicHeader, darkTheme }) => {
               <br />
               145 Murphy Canyon Rd.
               <br />
-              San Diego CA 2028
+              Knoxville, TN, 37932
             </p>
             <p className={"text-3 mb-1 " + (darkTheme ? "text-light" : "")}>
               <span className="text-primary text-4 me-2">
@@ -113,7 +113,7 @@ const Contact = ({ classicHeader, darkTheme }) => {
               <span className="text-primary text-4 me-2">
                 <i className="fas fa-envelope" />
               </span>
-              chat@simone.com
+              NowaczewskiJack@gmail.com
             </p>
             <h2
               className={
