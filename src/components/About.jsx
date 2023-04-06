@@ -111,7 +111,7 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
                   <span>1</span>+
                 </h4>
                 <p className={"mb-0 " + (darkTheme ? "text-light" : "")}>
-                  Years Experiance
+                  Years Experience
                 </p>
               </div>
             </div>
