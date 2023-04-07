@@ -39,15 +39,20 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
               Stack Developer
             </h2>
             <p className={darkTheme ? "text-white-50" : ""}>
-              I help you build brand for your business at an affordable price.
-              Thousands of clients have procured exceptional results while
-              working with our dedicated team. when an unknown printer took a
-              galley of type and scrambled it to make a type specimen book.
+              Hi, I'm Jack, a MERN stack developer with currently 1 year of
+              experience. I specialize in building web applications using the
+              MERN (MongoDB, Express.js, React, Node.js) stack, which is a
+              popular and powerful combination of technologies for developing
+              modern web applications. I have a deep understanding of JavaScript
+              and its ecosystem, and I enjoy working with the latest web
+              development technologies to build high-performance and scalable
+              applications. I am particularly skilled in building responsive and
+              user-friendly front-end interfaces using React and Redux, as well
+              as designing and implementing RESTful APIs with Node.js and
+              Express.
             </p>
             <p className={darkTheme ? "text-white-50" : ""}>
-              Delivering work within time and budget which meets client’s
-              requirements is our moto. Lorem Ipsum has been the industry's
-              standard dummy text ever when an unknown printer took a galley.
+              "Keep it simple, but significant."
             </p>
           </div>
           {/* About me content end */}
@@ -103,7 +108,7 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
                     (darkTheme ? "text-white-50" : "text-muted")
                   }
                 >
-                  <span>10</span>+
+                  <span>1</span>+
                 </h4>
                 <p className={"mb-0 " + (darkTheme ? "text-light" : "")}>
                   Years Experiance
@@ -118,7 +123,7 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
                     (darkTheme ? "text-white-50" : "text-muted")
                   }
                 >
-                  <span>250</span>+
+                  <span>2</span>+
                 </h4>
                 <p className={"mb-0 " + (darkTheme ? "text-light" : "")}>
                   Happy Clients
@@ -133,7 +138,7 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
                     (darkTheme ? "text-white-50" : "text-muted")
                   }
                 >
-                  <span>650</span>+
+                  <span>10</span>+
                 </h4>
                 <p className={"mb-0 " + (darkTheme ? "text-light" : "")}>
                   Projects Done
@@ -148,7 +153,7 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
                     (darkTheme ? "text-white-50" : "text-muted")
                   }
                 >
-                  <span>38</span>
+                  <span>1</span>
                 </h4>
                 <p className={"mb-0 " + (darkTheme ? "text-light" : "")}>
                   Get Awards
