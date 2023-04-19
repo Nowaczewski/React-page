@@ -7,31 +7,31 @@ const Testimonials = ({ classicHeader, darkTheme }) => {
     // add testimonials of people from LinkedIn
 
     {
-      name: "Dennis Jacques",
-      position: "User from USA",
+      name: "Josie Franklin",
+      position: "Worked in a project together",
       src: "images/testimonial/client-sm-3.jpg",
-      desc: "Only trying it out since a few days. But up to now excellent. Seems to work flawlessly. priced simply dummy text of the printing and typesetting industry.",
+      desc: "Jack is a tenacious and enthusiastic developer that I have thoroughly enjoyed working with. During our time as colleagues, he took every opportunity to join my coding sessions and displayed unparalleled determination while finding solutions for whatever issues we faced. Jack served as an inspiration when I found myself facing a difficult problem, and was incredible support when we worked on our project, SiteSeers, together. I would jump at any opportunity to work with him again, and would certainly recommend him for any team..",
       rating: 5,
     },
     {
-      name: "Jay Shah",
-      position: "Founder at Icomatic Pvt Ltd",
+      name: "Chip Hill",
+      position: "Former Partner in SiteSeers",
       src: "images/testimonial/client-sm-1.jpg",
-      desc: "Easy to use, reasonably priced simply dummy text of the printing and typesetting industry. Quidam lisque persius interesset his et, in quot quidam possim iriure.",
+      desc: "I worked with Jack on a class project, building a MERN stack application for locating and renting campsites. Even while Jack was working full-time, he provided critical front-end code to bring the project to completion. To take on the rigors of an intense Coding Boot Camp program while working a full-time job, and to provide the commitment to our team to deliver on the SiteSeers project, which was an ambitious undertaking, speaks to Jack's dedication to his team, and to discipline of character. I would welcome any opportunity to work with Jack again, and I know he is an asset to any team.",
       rating: 5,
     },
     {
-      name: "Patrick Cary",
-      position: "Freelancer from USA",
+      name: "Hannah Nicks",
+      position: "Worked in the same group",
       src: "images/testimonial/client-sm-2.jpg",
-      desc: "I am happy Working with printing and typesetting industry. Quidam lisque persius interesset his et, in quot quidam persequeris essent possim iriure.",
+      desc: "Jack is an exceptional developer. I had the pleasure of viewing some of his projects and not only are they pleasing to the eye, they are efficient and coded well. Jack is hardworking, a team player, and would be a great addition to any team!",
       rating: 5,
     },
     {
-      name: "Chris Tom",
-      position: "User from UK",
+      name: "Jorge Monteagudo",
+      position: "Former Partner in Furbaby Finder and SiteSeers",
       src: "images/testimonial/client-sm-4.jpg",
-      desc: "I have used them twice now. Good rates, very efficient service and priced simply dummy text of the printing and typesetting industry quidam interesset his et. Excellent.",
+      desc: "I am delighted to recommend Jack for any software development position. I had the pleasure of working with him on several coding projects during the UNC Coding Bootcamp, and I can attest to his programming skills and work ethic. Jack is an exceptional team player who is always willing to lend a helping hand when needed. He has a good eye for detail and takes pride in delivering clean, concise, and efficient code. He is a team player who meets deadlines with ease. What sets Jack apart is his empathetic approach to software development. He understands that code is not just about solving technical problems, but also about creating solutions that meet the needs of end-users. He has a strong desire to build software that is not only functional but also user-friendly and enjoyable to use.",
       rating: 5,
     },
   ];
@@ -77,7 +77,7 @@ const Testimonials = ({ classicHeader, darkTheme }) => {
             }
           >
             {" "}
-            Client Speak
+            Peer Speak
             <span className="heading-separator-line border-bottom border-3 border-primary d-block mx-auto" />
           </p>
         </div>
