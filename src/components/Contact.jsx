@@ -91,9 +91,9 @@ const Contact = ({ classicHeader, darkTheme }) => {
               Address
             </h2>
             <p className={"text-3 mb-4 " + (darkTheme ? "text-light" : "")}>
-              4th Floor, Plot No.22,
+              1415 Greytown Way,
               <br />
-              145 Murphy Canyon Rd.
+              Building 18,
               <br />
               Knoxville, TN, 37932
             </p>
@@ -101,13 +101,7 @@ const Contact = ({ classicHeader, darkTheme }) => {
               <span className="text-primary text-4 me-2">
                 <i className="fas fa-phone" />
               </span>
-              (060) 444 434 444
-            </p>
-            <p className={"text-3 mb-1 " + (darkTheme ? "text-light" : "")}>
-              <span className="text-primary text-4 me-2">
-                <i className="fas fa-fax" />
-              </span>
-              (060) 555 545 555
+              (704) 778-1015
             </p>
             <p className={"text-3 mb-4 " + (darkTheme ? "text-light" : "")}>
               <span className="text-primary text-4 me-2">
@@ -128,7 +122,7 @@ const Contact = ({ classicHeader, darkTheme }) => {
                 (darkTheme ? "social-icons-muted" : "")
               }
             >
-              <li className="social-icons-dribbble">
+              {/* <li className="social-icons-dribbble">
                 <Tooltip text="Dribbble" placement="top">
                   <a
                     href="http://www.dribbble.com/harnishdesign/"
@@ -138,8 +132,8 @@ const Contact = ({ classicHeader, darkTheme }) => {
                     <i className="fab fa-dribbble" />
                   </a>
                 </Tooltip>
-              </li>
-              <li className="social-icons-twitter">
+              </li> */}
+              {/* <li className="social-icons-twitter">
                 <Tooltip text="Twitter" placement="top">
                   <a
                     href="https://twitter.com/harnishdesign/"
@@ -149,11 +143,11 @@ const Contact = ({ classicHeader, darkTheme }) => {
                     <i className="fab fa-twitter" />
                   </a>
                 </Tooltip>
-              </li>
+              </li> */}
               <li className="social-icons-facebook">
                 <Tooltip text="Facebook" placement="top">
                   <a
-                    href="http://www.facebook.com/harnishdesign/"
+                    href="https://www.facebook.com/jack.nowaczewski"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -175,7 +169,7 @@ const Contact = ({ classicHeader, darkTheme }) => {
               <li className="social-icons-github">
                 <Tooltip text="Github" placement="top">
                   <a
-                    href="http://www.github.com/"
+                    href="https://github.com/nowaczewski"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
