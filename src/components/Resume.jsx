@@ -63,11 +63,11 @@ const Resume = ({ classicHeader, darkTheme }) => {
       percent: 70,
     },
     {
-      name: "Angular Js",
+      name: "Node JS",
       percent: 60,
     },
     {
-      name: "Bootstrap",
+      name: "AWS",
       percent: 99,
     },
   ];
