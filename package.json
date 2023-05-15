@@ -1,7 +1,7 @@
 {
   "name": "jack-personal-portfolio",
   "version": "0.1.0",
-  "homepage": " https://nowaczewski.github.io/React-page/",
+  "homepage": " https://jacknowaczewski.com",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
