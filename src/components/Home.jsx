@@ -47,7 +47,7 @@ const Home = ({ classicHeader, darkTheme, handleNavClick }) => {
                   />
                 </h2>
                 <p className="text-5 text-light mb-4">
-                  based in Knoxville, Tennessee.
+                  based in Charlotte, North Carolina.
                 </p>
                 <a
                   href="#contact"

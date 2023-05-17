@@ -78,7 +78,7 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
                   <span className="fw-600 me-2">Age:</span>30
                 </li>
                 <li className="border-0">
-                  <span className="fw-600 me-2">From:</span>Knoxville, Tennessee
+                  <span className="fw-600 me-2">From:</span>Charlotte, NC
                 </li>
               </ul>
               <a
@@ -115,7 +115,8 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
                 </p>
               </div>
             </div>
-            <div className="col-6 col-md-3">
+            {/* Happy CLients Section */}
+            {/* <div className="col-6 col-md-3">
               <div className="featured-box text-center">
                 <h4
                   className={
@@ -129,7 +130,7 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
                   Happy Clients
                 </p>
               </div>
-            </div>
+            </div> */}
             <div className="col-6 col-md-3">
               <div className="featured-box text-center">
                 <h4
@@ -145,7 +146,8 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
                 </p>
               </div>
             </div>
-            <div className="col-6 col-md-3">
+            {/* Get Awards Section */}
+            {/* <div className="col-6 col-md-3">
               <div className="featured-box text-center">
                 <h4
                   className={
@@ -159,7 +161,7 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
                   Get Awards
                 </p>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
         {/* projects rewards counting end */}
