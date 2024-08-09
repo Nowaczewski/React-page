@@ -5,33 +5,23 @@ const Services = ({ classicHeader, darkTheme }) => {
   const services = [
     {
       name: "Graphic Design",
-      desc: "Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.",
+      desc: "With a keen eye for detail and a passion for visual storytelling, I specialize in creating compelling designs that captivate audiences and communicate clear messages. My expertise spans a variety of design disciplines, including branding, digital media, and print design. Whether crafting logos, designing websites, or developing marketing collateral, I bring creativity and strategic thinking to every project, ensuring that each design is not only visually stunning but also purpose-driven and aligned with brand goals.",
       icon: "fas fa-palette",
     },
     {
       name: "Web Design",
-      desc: "Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.",
+      desc: "As a web designer, I combine creativity with technical expertise to build visually appealing, user-friendly, and responsive websites. I focus on delivering seamless user experiences through intuitive navigation, clean layouts, and engaging visuals. My skill set includes HTML, CSS, JavaScript, and various web design tools, enabling me to create custom designs that meet the unique needs of each client. Whether it's a personal blog, a corporate website, or an e-commerce platform, I strive to create web solutions that are both aesthetically pleasing and functionally robust.",
       icon: "fas fa-desktop",
     },
     {
       name: "UI/UX Design",
-      desc: "Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.",
+      desc: "I am passionate about crafting intuitive and engaging user experiences that connect with users on a deeper level. With a strong foundation in both UI and UX design principles, I focus on creating interfaces that are not only visually appealing but also user-centered and functional. I conduct thorough user research, develop wireframes, and build interactive prototypes to ensure that each design is tailored to the needs and behaviors of the target audience. My goal is to bridge the gap between aesthetics and usability, delivering digital products that are easy to use and delightful to interact with.",
       icon: "fas fa-pencil-ruler",
     },
     {
-      name: "App Design & Develop",
-      desc: "Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.",
-      icon: "fas fa-paint-brush",
-    },
-    {
       name: "Business Analysis",
-      desc: "Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.",
+      desc: "As a Business Analyst, I help businesses understand their needs and find the right solutions to meet their goals. I gather and analyze data, identify key requirements, and work closely with stakeholders to ensure that projects stay on track. My focus is on improving processes and helping teams make informed decisions that drive success. With a practical approach and a clear understanding of business operations, I aim to deliver solutions that are effective and easy to implement.",
       icon: "fas fa-chart-area",
-    },
-    {
-      name: "SEO Marketing",
-      desc: "Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.",
-      icon: "fas fa-bullhorn",
     },
   ];
 
