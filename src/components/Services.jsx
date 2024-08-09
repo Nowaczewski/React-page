@@ -19,7 +19,7 @@ const Services = ({ classicHeader, darkTheme }) => {
       icon: "fas fa-pencil-ruler",
     },
     {
-      name: "Business Analysis",
+      name: "Business Analyst",
       desc: "As a Business Analyst, I help businesses understand their needs and find the right solutions to meet their goals. I gather and analyze data, identify key requirements, and work closely with stakeholders to ensure that projects stay on track. My focus is on improving processes and helping teams make informed decisions that drive success. With a practical approach and a clear understanding of business operations, I aim to deliver solutions that are effective and easy to implement.",
       icon: "fas fa-chart-area",
     },
