@@ -91,11 +91,11 @@ const Contact = ({ classicHeader, darkTheme }) => {
               Address
             </h2>
             <p className={"text-3 mb-4 " + (darkTheme ? "text-light" : "")}>
-              1415 Greytown Way,
+              10130 Perimeter Pkwy
               <br />
-              Building 18,
+              Suite 500
               <br />
-              Knoxville, TN, 37932
+              Charlotte, NC 28216
             </p>
             <p className={"text-3 mb-1 " + (darkTheme ? "text-light" : "")}>
               <span className="text-primary text-4 me-2">
