@@ -39,7 +39,7 @@ const Home = ({ classicHeader, darkTheme, handleNavClick }) => {
                         "I'm Jack Nowaczewski.",
                         "I'm a React Developer.",
                         "I'm a Freelancer.",
-                        "I'm a Guitarist.",
+                        "I'm a Business Analyst.",
                       ],
                       autoStart: true,
                       loop: true,
