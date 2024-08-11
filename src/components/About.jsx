@@ -39,9 +39,9 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
               Stack Developer
             </h2>
             <p className={darkTheme ? "text-white-50" : ""}>
-              Hi, I'm Jack, a MERN stack developer with currently 1 year of
-              experience. I specialize in building web applications using the
-              MERN (MongoDB, Express.js, React, Node.js) stack, which is a
+              Hi, I'm Jack, and I am a MERN stack developer.
+              I specialize in building web applications using the
+              MERN Stack (MongoDB, Express.js, React, Node.js) stack, which is a
               popular and powerful combination of technologies for developing
               modern web applications. I have a deep understanding of JavaScript
               and its ecosystem, and I enjoy working with the latest web
@@ -75,7 +75,7 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
                   </a>
                 </li>
                 <li>
-                  <span className="fw-600 me-2">Age:</span>30
+                  <span className="fw-600 me-2">Age:</span>31
                 </li>
                 <li className="border-0">
                   <span className="fw-600 me-2">From:</span>Charlotte, NC
