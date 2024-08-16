@@ -25,6 +25,8 @@ yarn-error.log*
 
 package-lock.json
 asset-manifest.json
+
+# Ignore Gompiled SCSS / CSS Files
 preloader.scss
 
 # Legacy Code
