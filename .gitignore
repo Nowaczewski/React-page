@@ -24,7 +24,8 @@ yarn-debug.log*
 yarn-error.log*
 
 package-lock.json
-
+asset-manifest.json
+preloader.scss
 
 # Legacy Code
 NODE_OPTIONS=--openssl-legacy-provider
